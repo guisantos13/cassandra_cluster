@@ -1,0 +1,9 @@
+.vscode
+env*
+.git
+cassandra-config
+musicdb
+spotifydb
+.env
+__pycache__
+.cache

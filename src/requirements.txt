@@ -1,0 +1,2 @@
+cassandra_driver==3.28.0
+spotipy==2.23.0
